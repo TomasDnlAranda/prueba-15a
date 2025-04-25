@@ -3,3 +3,17 @@
 	margin: 0;
 	box-sizing: border-box;
 }
+
+/* estilos en mobile */
+
+h1 {
+	background: fuchsia;
+}
+
+p {
+	background: darkblue;
+}
+
+h3 {
+	background: darkgreen;
+}
